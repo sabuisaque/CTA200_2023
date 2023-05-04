@@ -1,0 +1,244 @@
+    1  ssh -g -L5906:lobster:5906 student13@gw.cita.utoronto.ca
+    2  cd
+    3   cd dir
+    4  ls
+    5  dir
+    6  /cita/local/bin/passwd
+    7  ssh lobster
+    8  whoami
+    9  eco $HOSTNAME
+   10  echo $HOSTNAME
+   11  echo $USER
+   12  who
+   13  echo $0
+   14  history
+   15  cd
+   16  cd /mnt/scratch-lustre/student13
+   17  mkdir gauss2d
+   18  ls -la
+   19  find -home '*auss*'
+   20   find . -name '*auss*'
+   21  cd
+   22  pwd
+   23  find /home/student13 -name '*auss*'
+   24  ssh lobster
+   25   ssh mussel
+   26  cat
+   27  cd
+   28  ssh mussel
+   29  cd 
+   30  find -name '*auss*'
+   31  find -name student13\home '*auss*'
+   32  find -name \student13\home '*auss*'
+   33  cp -r /home/cta200/ mnt/scratch-lustre/student13/cta200_project
+   34  cd /home/sta200
+   35  cd /home/cta200
+   36  help
+   37  find /ome/student13 '*auss*'
+   38  find .
+   39  find . -name '*auss*'
+   40  mkdir /mnt/scratch-lustre/$student13/gauss2d
+   41  cd /mnt/scratch-lustre/student13
+   42  mkdir /mnt/scratch-lustre/$student13/gauss2d
+   43  mkdir /mnt/scratch-lustre/$STUDENT13/gauss2d
+   44  cd
+   45  pwd
+   46  mkdir /home/$student13/cta200_project
+   47  mkdir /home/student13/cta200_project
+   48  cd
+   49  pwd
+   50  mkdir . gauss2d
+   51  mkdir gauss2d
+   52  mkdir cta200-project
+   53  cd cta200-project
+   54  pwd cta200-project
+   55  ls -la
+   56  pwd
+   57  cd /mnt/scratch-lustre/student13/cta200-project
+   58  pwd
+   59  c
+   60  cp -r /ho
+   61  b n 
+   62  ncdsf,
+   63  zdbnmz
+   64  ssh lobster
+   65  cd
+   66  pwd
+   67  whoami
+   68  cd cta200-project
+   69  pwd
+   70  find . name '*auss*'
+   71  find . -name '*auss*'
+   72  find /home/student13/cta200-project. -name '*auss*'
+   73  ls gauss2d
+   74  cd ..
+   75  ls -la
+   76  gauss2d
+   77  find . -name '*auss*'
+   78  cp -r /home/cta200 /mnt/scratch-lustre/student13/gauss2d
+   79  cp -av /home/cta200/Research/gauss2d /cta200-project/$student13/gauss2d
+   80  cp -av /home/cta200/Research/gauss2d /cta200-project/student13/gauss2d
+   81  cp -av /home/cta200/Research/gauss2d /cta200-project/
+   82  help
+   83  pwd
+   84  find . -name '*auss*'
+   85  ls
+   86  pwd
+   87  cd \home
+   88  cd /home
+   89  pwd
+   90  cd /home ls
+   91  ls
+   92  clear
+   93  cd /student13
+   94  cd student13
+   95  cd /student13
+   96  pwd
+   97  ls
+   98  cd gauss2d
+   99  cd /gauss2d
+  100  pwd
+  101  ls
+  102  $ ls
+  103   $ls
+  104  cd /student13
+  105  pwd
+  106  cd /student13
+  107  pwd
+  108  cd ..
+  109  pwd
+  110  rm gauss2d
+  111  cp -a home/student13/gauss2d /home/student13/cta200-project
+  112  m
+  113  cp -a /home/student13/gauss2d /home/student13/cta200-project
+  114  pwd
+  115  cd cta200-project
+  116  cd /cta200-project
+  117  pwd
+  118  ls
+  119  cd ..
+  120  pwd
+  121  cd /home
+  122  pwd
+  123  cd /cta200-project
+  124  cd /home/student/cta200-project
+  125  pwd
+  126  cd /home/student13/cta200-project
+  127  pwd
+  128  mkdir /CTA200_2023
+  129  ls
+  130  sudo mkdir CTA200_2023
+  131  mkdir CTA200_2023
+  132  ls
+  133  cd CTA200_2023
+  134  pwd
+  135  mkdir assignment_1
+  136  ls
+  137  pwd
+  138  ls
+  139  touch README.md
+  140  ls
+  141  vi README.md
+  142  ls
+  143  cd ..
+  144  pwd
+  145  cd ..
+  146  pwd
+  147  cd ..
+  148  pwd
+  149  ls
+  150  cd /home/murray
+  151  pwd
+  152  find . 'Hello'
+  153  pwd
+  154  ls
+  155  cta-project
+  156  cd cta-project
+  157  pwd
+  158  cd /cta-project
+  159  pwd
+  160  cd /cta200-project
+  161  pwd
+  162  cd cta200-project
+  163  pwd
+  164  cd ..
+  165  pwd
+  166  cd murray
+  167  pwd
+  168  find /home/murray -name '*ello_world*'
+  169  find . -name '*ello_world*'
+  170  find . -name 'Hello_world'
+  171  find /home/murray -name 'Hello_world'
+  172  find home/murray -name 'Hello_world'
+  173  find /murray -name 'Hello_world'
+  174  find /murray -name 'Hello_world.c'
+  175  find home/murray -name 'Hello_world.c'
+  176  find /home/murray -name 'Hello_world.c'
+  177  find . -name 'Hello_world.c'
+  178  find . -name 'Hello_world.py'
+  179  pwd
+  180  ls
+  181  cp /home/murray/Hello_world.py /home/student13/cta200-project/CTA200_2023/assignment_1
+  182  cp /home/murray/Hello_world.c /home/student13/cta200-project/CTA200_2023/assignment_1
+  183  cd ..
+  184  pwd
+  185  cd student13
+  186  pwd
+  187  cd cta200-project
+  188  pwd
+  189  cd CTA200_2023
+  190  pwd
+  191  cd assignment_1
+  192  pwd
+  193  ls
+  194  mv Hello_world.c Hello_world_Isaque.c
+  195  ls
+  196  mv Hello_world.py Hello_world_Isaque.py
+  197  ls
+  198  module load gcc
+  199  gcc Hello_world_Isaque.c -o Hello_world.x
+  200  ./Hello_world.x
+  201  vi Hello_world_Isaque.py
+  202  vi Hello_world_Isaque.c
+  203  ./Hello_world_Isaque.py
+  204  ./Hello_world_Isaque.x
+  205  ./Hello_world.x
+  206  ./Hello_world_Isaque.c
+  207  python Hello_world_Isaque.py
+  208  pwd
+  209  python Hello_world_Isaque.py
+  210  python --version
+  211  apt-get install python3
+  212  yum install python3
+  213  install python3
+  214  install --help
+  215  which yum
+  216  yum install python3
+  217  python Hello_world_Isaque.py > output_python.txt
+  218  type python
+  219  type python2
+  220  type python3
+  221  type -a python
+  222  command -v python
+  223  which python
+  224  which python2
+  225  which python3
+  226  apt-get install python
+  227  apt-get install python3
+  228  apt-get install python2
+  229  python2 Hello_world_Isaque.py
+  230  python3 Hello_world_Isaque.py
+  231  python2 Hello_world_Isaque.py > output_python.txt
+  232  ./Hello_world_Isaque.c
+  233  './Hello_world_Isaque.c'
+  234  ./Hello_world_Isaque.x
+  235  ./Hello_world.x
+  236  ./Hello_world.x > output_c.txt
+  237  history
+  238  history > /path/to/assignment_1/history.txt
+  239  ls
+  240  'history > /path/to/assignment_1/history.txt'
+  241  echo $HISTFILE
+  242  history > path/to/home/student13/cta200-project/CTA200_2023/assignment_1/history.txt
+  243  history > path/to/cta200-project/CTA200_2023/assignment_1/history.txt
+  244  history > history.txt
